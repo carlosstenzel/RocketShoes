@@ -8,6 +8,8 @@ Sample store built with Redux and Redux-Saga
 :high_heel:
 
 <img src="./.assets/home.png" >
+<br>
+<img src="./.assets/cart.png" >
 
 
 ```sh
