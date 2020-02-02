@@ -7,6 +7,9 @@ Sample store built with Redux and Redux-Saga
 :sandal:
 :high_heel:
 
+<img src="./.assets/home.png" >
+
+
 ```sh
 cd loja
 
